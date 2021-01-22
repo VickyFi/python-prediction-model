@@ -9,3 +9,5 @@ In this projrct was implemented:
 * Feature selection of the appropriate features that are used as input to the classifier.
 * The model with 10 classifiers.
 * Model estimation metrics are calculated.
+
+The project is implemented in Python using Jupyter Notebook.
